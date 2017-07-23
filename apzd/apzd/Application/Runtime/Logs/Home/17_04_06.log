@@ -1,0 +1,861 @@
+[ 2017-04-06T18:23:31+08:00 ] 222.171.107.81 /apzd/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000844s ]
+
+[ 2017-04-06T18:23:31+08:00 ] 222.171.107.81 /apzd/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000158s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003419s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003460s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000130s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000162s ]
+
+[ 2017-04-06T18:23:37+08:00 ] 222.171.107.81 /apzd/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000174s ]
+SQL: SHOW COLUMNS FROM `apzd_user` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `apzd_user` WHERE ( username="admin" and password=" min" ) LIMIT 1   [ RunTime:0.0099s ]
+
+[ 2017-04-06T18:23:41+08:00 ] 180.153.214.198 /apzd/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000195s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004263s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004316s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000160s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000132s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000178s ]
+
+[ 2017-04-06T18:23:41+08:00 ] 180.153.206.16 /apzd/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004676s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004733s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000166s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000218s ]
+
+[ 2017-04-06T18:23:41+08:00 ] 101.226.68.197 /apzd/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000879s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000282s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003310s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003351s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000611s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000646s ]
+
+[ 2017-04-06T18:23:41+08:00 ] 180.153.206.23 /apzd/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000200s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002609s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002654s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000093s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-04-06T18:23:41+08:00 ] 180.153.211.172 /apzd/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+
+[ 2017-04-06T18:23:42+08:00 ] 222.171.107.81 /apzd/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000179s ]
+SQL: SHOW COLUMNS FROM `apzd_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `apzd_user` WHERE ( username="admin" and password="admin" ) LIMIT 1   [ RunTime:0.0016s ]
+NOTIC: [8] Undefined index: save /home/bae/app/apzd/Application/Home/Model/UserModel.class.php 第 16 行.
+NOTIC: [8] Undefined index: time /home/bae/app/apzd/Application/Home/Controller/LoginController.class.php 第 24 行.
+
+[ 2017-04-06T18:23:43+08:00 ] 222.171.107.81 /apzd/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000197s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005478s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005521s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000101s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000117s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000159s ]
+
+[ 2017-04-06T18:23:44+08:00 ] 222.171.107.81 /apzd/index.php/Home/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000155s ]
+SQL: SHOW COLUMNS FROM `apzd_customer` [ RunTime:0.0115s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `apzd_customer` LIMIT 1   [ RunTime:0.0138s ]
+SQL: SHOW COLUMNS FROM `apzd_active` [ RunTime:0.0110s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `apzd_active` LIMIT 1   [ RunTime:0.0133s ]
+SQL: SHOW COLUMNS FROM `apzd_advice` [ RunTime:0.0097s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `apzd_advice` LIMIT 1   [ RunTime:0.0138s ]
+SQL: SHOW COLUMNS FROM `apzd_employ` [ RunTime:0.0105s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `apzd_employ` LIMIT 1   [ RunTime:0.0126s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002829s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002885s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000091s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000121s ]
+
+[ 2017-04-06T18:23:46+08:00 ] 222.171.107.81 /apzd/index.php/Home/Customer/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000116s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000162s ]
+SQL: SHOW COLUMNS FROM `apzd_customer` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `apzd_customer` WHERE ( 1 )  [ RunTime:0.0107s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+NOTIC: [8] Use of undefined constant search - assumed 'search' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 40 行.
+NOTIC: [8] Undefined index: search /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 40 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004785s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004833s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000113s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000166s ]
+
+[ 2017-04-06T18:23:53+08:00 ] 180.153.206.18 /apzd/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+
+[ 2017-04-06T18:23:59+08:00 ] 61.151.218.118 /apzd/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000163s ]
+
+[ 2017-04-06T18:24:43+08:00 ] 222.171.107.81 /apzd/index.php/Home/Customer/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000176s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+NOTIC: [8] Undefined variable: data /home/bae/app/apzd/Application/Runtime/Cache/Home/b0e6b55275fb1c8ce32bff965ba58eae.php 第 33 行.
+NOTIC: [8] Undefined variable: data /home/bae/app/apzd/Application/Runtime/Cache/Home/b0e6b55275fb1c8ce32bff965ba58eae.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003304s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003346s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000113s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000154s ]
+
+[ 2017-04-06T18:25:23+08:00 ] 222.171.107.81 /apzd/index.php/Home/Customer/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000254s ]
+SQL: SHOW COLUMNS FROM `apzd_customer` [ RunTime:0.0108s ]
+
+[ 2017-04-06T18:25:31+08:00 ] 222.171.107.81 /apzd/index.php/Home/Customer/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003126s ]
+SQL: SHOW COLUMNS FROM `apzd_customer` [ RunTime:0.0030s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /home/bae/app/apzd/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+SQL: INSERT INTO `apzd_customer` (`customer_logo_url`,`customer_name`,`customer_show_status`,`customer_time`) VALUES ('customer/2017-04-06/58e6179b70d24.jpg','小香樟耳足保健馆','启用','2017-04-06 18:25:31') [ RunTime:0.0038s ]
+
+[ 2017-04-06T18:25:32+08:00 ] 222.171.107.81 /apzd/index.php/Home/Customer/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000159s ]
+SQL: SHOW COLUMNS FROM `apzd_customer` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `apzd_customer` WHERE ( 1 )  [ RunTime:0.0145s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Use of undefined constant search - assumed 'search' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 40 行.
+NOTIC: [8] Undefined index: search /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 40 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005671s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005717s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000136s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000188s ]
+
+[ 2017-04-06T18:25:40+08:00 ] 222.171.107.81 /apzd/index.php/Home/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+SQL: SHOW COLUMNS FROM `apzd_customer` [ RunTime:0.0085s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `apzd_customer` LIMIT 1   [ RunTime:0.0105s ]
+SQL: SHOW COLUMNS FROM `apzd_active` [ RunTime:0.0089s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `apzd_active` LIMIT 1   [ RunTime:0.0117s ]
+SQL: SHOW COLUMNS FROM `apzd_advice` [ RunTime:0.0087s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `apzd_advice` LIMIT 1   [ RunTime:0.0109s ]
+SQL: SHOW COLUMNS FROM `apzd_employ` [ RunTime:0.0088s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `apzd_employ` LIMIT 1   [ RunTime:0.0108s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000051s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002737s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002779s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000148s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000189s ]
+
+[ 2017-04-06T18:25:40+08:00 ] 222.171.107.81 /apzd/index.php/Home/Index/ajaxDelHTML
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+
+[ 2017-04-06T18:27:34+08:00 ] 222.171.107.81 /apzd/index.php/Home/Index/ajaxDelHTML
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000150s ]
+
+[ 2017-04-06T18:28:42+08:00 ] 222.171.107.81 /apzd/index.php/Home/Active/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+SQL: SHOW COLUMNS FROM `apzd_active` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `apzd_active` WHERE ( 1 )  [ RunTime:0.0017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+NOTIC: [8] Use of undefined constant search - assumed 'search' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 40 行.
+NOTIC: [8] Undefined index: search /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 40 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004292s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000274s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-04-06T18:28:46+08:00 ] 222.171.107.81 /apzd/index.php/Home/Customer/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000141s ]
+SQL: SHOW COLUMNS FROM `apzd_customer` [ RunTime:0.0088s ]
+SQL: SELECT * FROM `apzd_customer` WHERE ( 1 )  [ RunTime:0.0121s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+NOTIC: [8] Use of undefined constant search - assumed 'search' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 40 行.
+NOTIC: [8] Undefined index: search /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 40 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 71 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 85 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/41bb17c595b518c71a8a3dc9a435f85a.php 第 90 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005304s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005344s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000134s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000119s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000175s ]
+
+[ 2017-04-06T18:52:03+08:00 ] 222.171.107.81 /apzd/index.php/Home/Active/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001079s ]
+SQL: SHOW COLUMNS FROM `apzd_active` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `apzd_active` WHERE ( 1 )  [ RunTime:0.2138s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000250s ]
+NOTIC: [8] Use of undefined constant search - assumed 'search' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 40 行.
+NOTIC: [8] Undefined index: search /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 40 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 84 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' /home/bae/app/apzd/Application/Runtime/Cache/Home/48f83e75575ffa946fdde605e09f2900.php 第 89 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018232s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000165s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000212s ]
+

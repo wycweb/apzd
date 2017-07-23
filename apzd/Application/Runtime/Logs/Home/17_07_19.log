@@ -1,0 +1,273 @@
+[ 2017-07-19T11:11:53+08:00 ] 127.0.0.1 /apzd/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+SQL: SHOW COLUMNS FROM `apzd_config` [ RunTime:0.0243s ]
+SQL: SELECT `config_name`,`config_value` FROM `apzd_config`  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `apzd_image` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `apzd_image` WHERE ( id IN(4,5,6) )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `apzd_abstract` [ RunTime:0.0035s ]
+SQL: SELECT `ab_image`,`ab_content` FROM `apzd_abstract` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `apzd_founder` [ RunTime:0.0043s ]
+SQL: SELECT `fd_image`,`fd_content` FROM `apzd_founder` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `apzd_culture` [ RunTime:0.0032s ]
+SQL: SELECT `cul_title`,`cul_desc` FROM `apzd_culture`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `apzd_wish` [ RunTime:0.0035s ]
+SQL: SELECT `wish_title`,`wish_desc` FROM `apzd_wish`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `apzd_advice` [ RunTime:0.0054s ]
+SQL: SELECT `advice_title`,`id` FROM `apzd_advice` WHERE ( advice_show_status = "启用" ) ORDER BY advice_sort desc  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `apzd_active` [ RunTime:0.0034s ]
+SQL: SELECT `active_name`,`active_img_url` FROM `apzd_active` WHERE ( active_show_status = '启用' )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `apzd_customer` [ RunTime:0.0034s ]
+SQL: SELECT `customer_name`,`customer_logo_url` FROM `apzd_customer` WHERE ( customer_show_status = '启用' )  [ RunTime:0.0005s ]
+SQL: SELECT `image_url` FROM `apzd_image` WHERE ( id IN(1,2,3) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000134s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000268s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.089235s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.089368s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.024630s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.024754s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012541s ]
+
+[ 2017-07-19T12:07:44+08:00 ] ::1 /apzd/?XDEBUG_SESSION_START=14807
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001573s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002726s ]
+SQL: SHOW COLUMNS FROM `apzd_config` [ RunTime:0.0304s ]
+SQL: SELECT `config_name`,`config_value` FROM `apzd_config`  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `apzd_image` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `apzd_image` WHERE ( id IN(4,5,6) )  [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `apzd_abstract` [ RunTime:0.0043s ]
+SQL: SELECT `ab_image`,`ab_content` FROM `apzd_abstract` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `apzd_founder` [ RunTime:0.0074s ]
+SQL: SELECT `fd_image`,`fd_content` FROM `apzd_founder` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `apzd_culture` [ RunTime:0.0042s ]
+SQL: SELECT `cul_title`,`cul_desc` FROM `apzd_culture`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `apzd_wish` [ RunTime:0.1426s ]
+SQL: SELECT `wish_title`,`wish_desc` FROM `apzd_wish`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `apzd_advice` [ RunTime:0.2016s ]
+SQL: SELECT `advice_title`,`id` FROM `apzd_advice` WHERE ( advice_show_status = "启用" ) ORDER BY advice_sort desc  [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `apzd_active` [ RunTime:0.1010s ]
+SQL: SELECT `active_name`,`active_img_url` FROM `apzd_active` WHERE ( active_show_status = '启用' )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `apzd_customer` [ RunTime:0.0952s ]
+SQL: SELECT `customer_name`,`customer_logo_url` FROM `apzd_customer` WHERE ( customer_show_status = '启用' )  [ RunTime:0.0004s ]
+SQL: SELECT `image_url` FROM `apzd_image` WHERE ( id IN(1,2,3) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000204s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000440s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016013s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016240s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000956s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000922s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001148s ]
+
+[ 2017-07-19T12:39:25+08:00 ] 127.0.0.1 /apzd/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001755s ]
+SQL: SHOW COLUMNS FROM `apzd_config` [ RunTime:0.0028s ]
+SQL: SELECT `config_name`,`config_value` FROM `apzd_config`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `apzd_image` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `apzd_image` WHERE ( id IN(4,5,6) )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `apzd_abstract` [ RunTime:0.0026s ]
+SQL: SELECT `ab_image`,`ab_content` FROM `apzd_abstract` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `apzd_founder` [ RunTime:0.0025s ]
+SQL: SELECT `fd_image`,`fd_content` FROM `apzd_founder` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `apzd_culture` [ RunTime:0.0028s ]
+SQL: SELECT `cul_title`,`cul_desc` FROM `apzd_culture`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `apzd_wish` [ RunTime:0.0045s ]
+SQL: SELECT `wish_title`,`wish_desc` FROM `apzd_wish`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `apzd_advice` [ RunTime:0.0027s ]
+SQL: SELECT `advice_title`,`id` FROM `apzd_advice` WHERE ( advice_show_status = "启用" ) ORDER BY advice_sort desc  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `apzd_active` [ RunTime:0.0025s ]
+SQL: SELECT `active_name`,`active_img_url` FROM `apzd_active` WHERE ( active_show_status = '启用' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `apzd_customer` [ RunTime:0.0028s ]
+SQL: SELECT `customer_name`,`customer_logo_url` FROM `apzd_customer` WHERE ( customer_show_status = '启用' )  [ RunTime:0.0003s ]
+SQL: SELECT `image_url` FROM `apzd_image` WHERE ( id IN(1,2,3) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000248s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011929s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012117s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000683s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000809s ]
+
+[ 2017-07-19T12:39:28+08:00 ] 127.0.0.1 /apzd/index.php/employ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000810s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001711s ]
+SQL: SHOW COLUMNS FROM `apzd_config` [ RunTime:0.1619s ]
+SQL: SELECT `config_name`,`config_value` FROM `apzd_config`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `apzd_image` [ RunTime:0.0641s ]
+SQL: SELECT * FROM `apzd_image` WHERE ( id IN(4,5,6) )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `apzd_employ` [ RunTime:0.0171s ]
+SQL: SELECT `job_name`,`job_duty`,`job_require` FROM `apzd_employ` WHERE ( job_show_status = "启用" ) ORDER BY job_sort desc  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.384639s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.384772s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001099s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001208s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002680s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003040s ]
+
+[ 2017-07-19T13:01:26+08:00 ] ::1 /apzd/?XDEBUG_SESSION_START=14409
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001154s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001367s ]
+SQL: SHOW COLUMNS FROM `apzd_config` [ RunTime:0.0956s ]
+SQL: SELECT `config_name`,`config_value` FROM `apzd_config`  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `apzd_image` [ RunTime:0.0045s ]
+SQL: SELECT * FROM `apzd_image` WHERE ( id IN(4,5,6) )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `apzd_abstract` [ RunTime:0.0119s ]
+SQL: SELECT `ab_image`,`ab_content` FROM `apzd_abstract` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `apzd_founder` [ RunTime:0.1286s ]
+SQL: SELECT `fd_image`,`fd_content` FROM `apzd_founder` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `apzd_culture` [ RunTime:0.0832s ]
+SQL: SELECT `cul_title`,`cul_desc` FROM `apzd_culture`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `apzd_wish` [ RunTime:0.1122s ]
+SQL: SELECT `wish_title`,`wish_desc` FROM `apzd_wish`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `apzd_advice` [ RunTime:0.0644s ]
+SQL: SELECT `advice_title`,`id` FROM `apzd_advice` WHERE ( advice_show_status = "启用" ) ORDER BY advice_sort desc  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `apzd_active` [ RunTime:0.0523s ]
+SQL: SELECT `active_name`,`active_img_url` FROM `apzd_active` WHERE ( active_show_status = '启用' )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `apzd_customer` [ RunTime:0.0915s ]
+SQL: SELECT `customer_name`,`customer_logo_url` FROM `apzd_customer` WHERE ( customer_show_status = '启用' )  [ RunTime:0.0005s ]
+SQL: SELECT `image_url` FROM `apzd_image` WHERE ( id IN(1,2,3) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000232s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000526s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016397s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016607s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000994s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001564s ]
+
+[ 2017-07-19T13:06:47+08:00 ] 127.0.0.1 /apzd/index.php/employ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001837s ]
+SQL: SHOW COLUMNS FROM `apzd_config` [ RunTime:0.0073s ]
+SQL: SELECT `config_name`,`config_value` FROM `apzd_config`  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `apzd_image` [ RunTime:0.0738s ]
+SQL: SELECT * FROM `apzd_image` WHERE ( id IN(4,5,6) )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `apzd_employ` [ RunTime:0.1006s ]
+SQL: SELECT `job_name`,`job_duty`,`job_require` FROM `apzd_employ` WHERE ( job_show_status = "启用" ) ORDER BY job_sort desc  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000146s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000376s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020520s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020842s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001378s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001643s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001972s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002341s ]
+
+[ 2017-07-19T13:06:49+08:00 ] 127.0.0.1 /apzd/index.php/employ
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001796s ]
+SQL: SHOW COLUMNS FROM `apzd_config` [ RunTime:0.0698s ]
+SQL: SELECT `config_name`,`config_value` FROM `apzd_config`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `apzd_image` [ RunTime:0.0717s ]
+SQL: SELECT * FROM `apzd_image` WHERE ( id IN(4,5,6) )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `apzd_employ` [ RunTime:0.1427s ]
+SQL: SELECT `job_name`,`job_duty`,`job_require` FROM `apzd_employ` WHERE ( job_show_status = "启用" ) ORDER BY job_sort desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000212s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000593s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017028s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017324s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001480s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002701s ]
+
+[ 2017-07-19T15:20:35+08:00 ] 127.0.0.1 /apzd/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001151s ]
+SQL: SHOW COLUMNS FROM `apzd_config` [ RunTime:0.0025s ]
+SQL: SELECT `config_name`,`config_value` FROM `apzd_config`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `apzd_image` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `apzd_image` WHERE ( id IN(4,5,6) )  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `apzd_abstract` [ RunTime:0.0028s ]
+SQL: SELECT `ab_image`,`ab_content` FROM `apzd_abstract` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `apzd_founder` [ RunTime:0.0037s ]
+SQL: SELECT `fd_image`,`fd_content` FROM `apzd_founder` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `apzd_culture` [ RunTime:0.0024s ]
+SQL: SELECT `cul_title`,`cul_desc` FROM `apzd_culture`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `apzd_wish` [ RunTime:0.0025s ]
+SQL: SELECT `wish_title`,`wish_desc` FROM `apzd_wish`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `apzd_advice` [ RunTime:0.0023s ]
+SQL: SELECT `advice_title`,`id` FROM `apzd_advice` WHERE ( advice_show_status = "启用" ) ORDER BY advice_sort desc  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `apzd_active` [ RunTime:0.0025s ]
+SQL: SELECT `active_name`,`active_img_url` FROM `apzd_active` WHERE ( active_show_status = '启用' )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `apzd_customer` [ RunTime:0.0033s ]
+SQL: SELECT `customer_name`,`customer_logo_url` FROM `apzd_customer` WHERE ( customer_show_status = '启用' )  [ RunTime:0.0003s ]
+SQL: SELECT `image_url` FROM `apzd_image` WHERE ( id IN(1,2,3) )  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000280s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062583s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062870s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.011062s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011244s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001217s ]
+

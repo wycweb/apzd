@@ -1,0 +1,152 @@
+[ 2017-03-24T11:23:41+08:00 ] 113.5.2.67 /apzd/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+
+[ 2017-03-24T11:23:43+08:00 ] 113.5.2.67 /apzd/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003324s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003371s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000153s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000187s ]
+
+[ 2017-03-24T11:23:45+08:00 ] 113.5.2.67 /apzd/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000225s ]
+
+[ 2017-03-24T11:23:45+08:00 ] 113.5.2.67 /apzd/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000128s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002715s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002768s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000092s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000129s ]
+
+[ 2017-03-24T11:24:00+08:00 ] 113.5.2.67 /apzd/index.php/Home/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+SQL: SHOW COLUMNS FROM `apzd_user` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `apzd_user` WHERE ( username="admin" and password="admin" ) LIMIT 1   [ RunTime:0.0104s ]
+NOTIC: [8] Undefined index: save /home/bae/app/apzd/Application/Home/Model/UserModel.class.php 第 16 行.
+NOTIC: [8] Undefined index: time /home/bae/app/apzd/Application/Home/Controller/LoginController.class.php 第 24 行.
+
+[ 2017-03-24T11:24:00+08:00 ] 113.5.2.67 /apzd/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000162s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005545s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005823s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000135s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000179s ]
+
+[ 2017-03-24T11:24:01+08:00 ] 113.5.2.67 /apzd/index.php/Home/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+SQL: SHOW COLUMNS FROM `apzd_customer` [ RunTime:0.0031s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `apzd_customer` LIMIT 1   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `apzd_active` [ RunTime:0.0024s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `apzd_active` LIMIT 1   [ RunTime:0.0027s ]
+SQL: SHOW COLUMNS FROM `apzd_advice` [ RunTime:0.0028s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `apzd_advice` LIMIT 1   [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `apzd_employ` [ RunTime:0.0023s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `apzd_employ` LIMIT 1   [ RunTime:0.0017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000222s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003902s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003961s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000116s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000148s ]
+
+[ 2017-03-24T11:24:04+08:00 ] 113.5.2.67 /apzd/index.php/Home/Index/ajaxDelHTML
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000198s ]
+
+[ 2017-03-24T11:25:28+08:00 ] 113.5.2.72 /apzd/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000154s ]
+
+[ 2017-03-24T11:25:29+08:00 ] 113.5.2.72 /apzd/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002421s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002465s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000097s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000128s ]
+

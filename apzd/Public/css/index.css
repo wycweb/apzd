@@ -1,0 +1,974 @@
+﻿body{
+	min-width: 1200px;
+}
+
+/*顶部title*/
+.warp{
+	width: 1200px;
+	margin: 0 auto;
+	position: relative;
+}
+.titletop{
+	width: 100%;
+	height: 5px;
+	background: #990000;
+	
+}
+.phone-top{
+	float: right;
+}
+.phone-top span{
+	font-size: 12px;
+	color: white;
+	line-height: 25px;
+}
+.phone-top span:first-child{
+	font-size:13px
+}
+.phone-top span:nth-child(2){
+	margin: 0 20px;
+}
+.phone-top span:last-child{
+	margin-right:60px;
+}
+.bussinessLogWarp{
+	height: 110px;
+	padding-top: 12px;
+}
+.bussinessLog{
+	width: 80px;
+	height: 80px;
+	float: left;
+	margin-right:22px;
+}
+.bussinessLog img{
+	width: 100%;
+	height: 100%;
+}
+.companyName{
+	float: left;
+}
+.companyName h1{
+	font-size: 44px;
+	color: #024a18;
+	font-weight: 700;
+	font-family: "黑体";
+}
+.companyNamePhone{
+	float: right;
+	margin: 28px 80px 0 0;
+}
+.companyNamePhone span{
+	font-size: 25px;
+	color:#6f6f6f ;
+	
+}
+.carousel-indicators .setRollLi{
+	width: 70px;
+	height: 8px;
+	border-radius: 5px;
+	border: none;
+	background: rgba(255,255,255,0.8);
+}
+.carousel-indicators .active {
+    width: 70px;
+	height: 8px;
+	border: none;
+    margin: 0 0 1px 0;
+    background: rgba(182,81,103,0.8);
+}
+.carousel-indicators{
+	bottom: 0px;
+}
+.whatcanwedoPicBg{
+width：100%；
+height:auto;
+margin-top:35px}
+.whatcanwedoPicBg img{
+width:100%;
+
+}
+.whatcanwedo{
+margin-top:60px
+}
+/*导航*/
+.maxwidth{
+	width: 100%;
+	position: static;
+	background:#990000;
+	position: relative;
+    z-index: 2;
+    padding: 0;
+	
+}
+.shadow{
+	box-shadow: 0 3px 5px #6f6f6f;
+}
+.Mynav{
+	width:1200px;
+	margin: 0 auto;
+	height: 55px;
+}
+
+.jqnavwarp{
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 99;
+	
+}
+.Mynav ul li{
+	width: 12%;
+	height: 55px;
+	list-style: none;
+	text-align: center;
+	line-height: 55px;
+	float: left;
+}
+.Mynav ul .changeBgcolor{
+	background:#b90910;
+}
+.Mynav ul{
+	padding: 0;
+	margin: 0;
+}
+.jqnavwarp{
+	display: none;
+	
+}
+.Mynav ul li a{
+	color: #ffffff;
+	font-size: 23px;
+	text-decoration: none;
+	cursor:pointer;
+	font-weight: 500;
+}
+.Mynav ul li:first-child{
+	margin-left:-10px ;
+}
+/*banner*/
+.mybannner{
+
+	width: 100%;
+	position: relative;
+}
+.mycontent{
+	background: rgba(0,0,0,0.5);
+}
+.carousel-caption {
+    position: absolute;
+    right: 0%;
+    bottom: 0;
+    left: 0%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+
+/*公司简介*/
+.contentTitle{
+	margin: 0 auto;
+	width: 940px;
+	margin-top:20px ;
+	text-align: center;
+	position: relative;	
+}
+.aboutUsWarp{
+	margin-top: 50px;
+}
+.contentWarp{
+	min-height: 450px;
+	position: relative;
+
+}
+.jsUl{
+	display: block;
+	width: 600px;
+	height: 30px;
+	margin: 0 auto;
+	margin-top:40px ;
+	
+}
+.jsUl li{
+	float: left;
+	width: 25%;
+	height: 30px;
+	list-style: none;
+	text-align: center;
+}
+.jsUl li a{
+	font-size: 20px;
+	color: #666666;
+	text-decoration: none;
+	cursor: pointer;
+}
+.jsUl .changeContentText a{
+	color: #990000;
+	
+}
+.jsUl .changeContentText:after{
+	content: "";
+	display: block;
+	width: 100px;
+	height: 3px;
+	background:#990000 ;
+	margin-left: 20px;
+	margin-top: 5px;
+}
+.contentWarp .contentBox{
+	width: 100%;
+	
+}
+.contentRight{
+	width: 740px;
+	min-height: 410px;
+	background: red;
+	margin-left:400px ;
+}
+.contentLeft{
+	width: 286px;
+	height: 342px;
+	position: absolute;
+	left: 50px;
+	bottom: -30px;
+}
+.contentWarp .contentBox{
+	padding: 40px;
+	display: none;
+	
+}
+
+.contentWarp .contentBox .contentBoxPic{
+	float: left;
+	margin:0 20px;
+}
+.contentWarp .contentBox .contentBoxText p{
+	text-indent:2em;
+	font-size: 20px;
+	color: #666666;
+	margin: 0;
+	text-align:justify;
+	text-justify:inter-ideograph
+}
+.contentBoxPicRight{
+	float: right;
+	margin-left: 15px;
+}
+.contentBoxUl{
+	width: 1000px;
+	display: block;
+	margin: 0 auto;
+	padding-left: 260px;
+}
+.contentBoxUl li{
+	height: 50px;
+	font-size:20px ;
+	color: #666666;
+	list-style: none;
+}
+.contentBoxUl li:before{
+	content: "";
+	width: 20px;
+	height: 20px;
+	background: #990000;
+	position: absolute;
+	margin: 5px 0 0 -80px;
+}
+.contentBoxUl li span{
+	width: 110px;
+	font-weight: 700;
+	font-size:20px ;
+	color: #666666;
+}
+/*活动*/
+.menuStyle{
+	position: relative;
+	text-align: center;
+	height: 80px;
+}
+.menuStyle .whatcanwedoP{
+	width: 250px;
+}
+.menuStyle .kehuP{
+	width: 250px;
+}
+.menuStyle P{
+	font-size: 33px;
+	color: #b2011a;
+	font-weight: 700;
+	width: 200px;
+	margin: 0 auto;
+	background: white;
+	/*font-family:"arial black";*/
+}
+.menuStyle P:last-child{
+	width: 300px;
+	font-size: 16px;
+	color: #666666;
+	font-weight: normal;
+}
+.fengeLine{
+	width: 100%;
+	height: 2px;
+	background: #e2e2e2;
+	position: absolute;
+	z-index: -1;
+	margin-top: 20px;
+}
+.staticHeight{
+	height: 500px;
+	padding-top:50px ;
+	
+}
+.dynamicActivity{
+	width: 940px;
+	height: 80px;
+	margin: 0 auto;
+	margin-top:60px ;
+	margin-bottom:30px
+
+}
+
+.specialdiv{
+	width: 20%;
+	height:400px;
+	margin-left:4%;
+	background:#C0C0C0;
+	float: left;
+	position: relative;	
+}
+.specialdivHover{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	text-align: center;
+	line-height: 400px;
+	color:white;
+	background: rgba(0,0,0,0.5);
+	z-index: 5;
+	opacity: 0;
+	transition: all 0.5s; 
+}
+.specialdivHover:hover{
+	opacity: 1;
+}
+.honorShow{
+	width: 100%;
+	height: 350px;
+
+}
+.picScroll-left{
+	width: 1200px;
+	height: auto;
+	overflow: hidden;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.picScroll-left .bd{ padding-top:25px;
+					 padding-left: 35px;}
+.picScroll-left .bd ul{ overflow:hidden;}
+.picScroll-left .bd ul li{ margin:0 10px;width:360px;float:left; overflow:hidden; text-align:center;  }
+.picScroll-left .bd ul li .pic{text-align:center;}
+.picScroll-left .bd ul li .pic img{ display:block;width: 360px; height: 220px; }
+.picScroll-left .bd ul li a{color:#666666; text-decoration: none;}
+.picScroll-left .bd ul li .title{ line-height:50px;}
+
+
+
+/*服务项目*/
+.myService{
+	width: 100%;
+	min-height: 300px;
+	background: #f7f7f7;
+	
+}
+.myServiceWarp{
+	width: 1200px;
+	height: auto;
+	margin: 0 auto;
+	padding-top: 40px;
+	padding-bottom: 55px;
+}
+.myServicTitle{
+	width: 823px;
+	margin: 0 auto;
+	text-align: center;
+	position: relative;
+	
+}
+.myServicTitle p:first-child{
+	font-size: 33px;
+    color: #b2011a;
+    font-weight: 700;
+}
+.myServicTitle p{
+	width: 300px;
+    font-size: 16px;
+    color: #666666;
+    font-weight: normal;
+    margin: 0;
+    width:823px ;
+}
+.myServiceTitleStyle{
+	min-height: 100px;
+}
+.myServiceTitleStyle p{
+    font-size: 33px;
+    color: #b2011a;
+    font-weight: 700;
+    width: 200px;
+    margin: 0 auto;
+    position: absolute;
+    z-index: 2;
+    background:#f7f7f7 ;
+    left: 50%;
+    margin-left: -100px;
+    
+    
+    
+}
+.myServiceTitleStyle P:last-child {
+    width: 300px;
+    font-size: 16px;
+    color: #666666;
+    font-weight: normal;
+    left: 50%;
+    margin-left: -150px;
+    top:50px
+}	
+.fengeLineService{
+	width: 100%;
+    height: 2px;
+    background: #e2e2e2;
+    position: absolute;
+    z-index: 0;
+    margin-top: 20px;
+}
+.myServicTitleContent{
+	width: 990px;
+	height: 381px;
+	margin: 0 auto;
+	background: url(../img/serviceBGpic.jpg);
+	padding-top: 20px;
+}
+.myServicList{
+	margin: 0;
+	padding: 0;
+	width: 330px;
+	float: left;
+	list-style: none;
+}
+.myServicList li{
+	width: 330px;
+	height: 60px;
+	text-align: center;
+	line-height: 60px;
+	font-size: 22px;
+	color: #666666;
+	font-weight: 700;
+}
+.myServicListTwo{
+	margin: 0;
+	padding: 0;
+	width: 330px;
+	float: left;
+	list-style: none;
+}
+.myServicListTwo li{
+	width: 330px;
+	height: 60px;
+	text-align: center;
+	line-height: 60px;
+	font-size: 22px;
+	color: white;
+	font-weight: 700;
+	
+}
+.myServicBtn{
+	width: 150px;
+	height: 30px;
+	margin: 0 auto;
+	margin-top: 30px;
+	text-align: center;
+	line-height: 30px;
+	background: url(../img/serveBtn.jpg);
+}
+.myServicBtn a{
+	color: white;
+	text-decoration: none;
+	font-weight: 700;
+}
+/*客户展示*/
+.client{
+	width: 960px;
+	height: 73px;
+	margin: 0 auto;
+	margin-top: 60px;
+	margin-bottom: 35px;
+}
+.clientWarp{
+	width: 100%;
+	height: auto;
+	background: url(../img/clentBg.jpg) no-repeat;
+	background-size:100% 100% ;
+	background-position: center top;	
+	padding: 0 0 30px 0;
+}
+.clientContent{
+	width:280px;
+	height: 195px;
+	display: inline-block;
+	position: relative;
+	margin: 30px 8px 0 8px;
+}
+.clientContent img{
+	width: 88%;
+	height: 88%;
+}
+
+.clientContentZC p:first-child{
+	color: white;
+	text-align: center;
+	font-size: 22px;
+	margin: 20px 0 0 0;
+}
+.clientContentZC p:nth-child(2){
+	width: 175px;
+	margin:0 auto ;
+	color: white;
+	font-size: 15px;
+}
+.workFlow{
+	width: 1100px;
+	height: 460px;
+	margin-top: 60px;
+}
+.workFlowPic{
+	width: 1100px;
+}
+.workFlowPic img{
+	width: 100%;
+}
+.showmore{
+	width:238px;
+	height: 37px;
+	text-align: center;
+	line-height: 37px;
+	font-size: 16px;
+	color: white;
+	background: rgba(255,255,2255,0.4);
+	margin: 0 auto;
+	margin-top: 30px;
+	cursor: pointer;
+}
+/*创始人介绍*/
+
+.Start{
+	position: relative;
+	text-align: center;
+	height: 80px;
+}
+.fengeLineStart{
+	width: 80%;
+	height: 2px;
+	background: #e2e2e2;
+	position: absolute;
+	z-index: 0;
+	margin-top: 20px;
+	left: 10%;
+	
+}
+.menuStyleStart P{
+	font-size: 30px;
+	color: #b2011a;
+	font-weight: 700;
+	width: 500px;
+	margin: 0 auto;
+	background: #f5f5f5;
+	position: relative;
+	/*font-family:"arial black";*/
+}
+.menuStyleStart P:last-child{
+	font-size: 27px;
+	color: #666666;
+}
+.founder{
+	width: 1122px;
+	height: 91px;
+	margin: 0 auto;
+	margin-bottom: 60px;
+}
+.founderWarp{
+	width: 100%;
+	height: auto;
+	background: #f5f5f5;
+	padding-top:20px ;
+	margin: 0 auto;
+	
+}
+.founderpeople{
+	width: 401px;
+	height: 568px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top:-40px ;
+}
+.founderContent{
+	width: 700px;
+	background: #5E5E5E;
+	display: inline-block;
+	min-height: 300px;
+	vertical-align: top;
+	padding-bottom: 50px;
+}
+.training{
+	width: 1100px;
+	margin: 0 auto;
+}
+.fenge{
+	width: 100%;
+	height: 2px;
+	background: #bfbfbf;
+}
+.dadao{
+	width: 520px;
+	height: 189px;
+	margin: 0 auto;
+}
+.trainingImg{
+	width: 100%;
+}
+.trainingImg img{
+	width: 100%;
+}
+.training{
+	margin-top: 60px;
+}
+.trainingWarp{
+	width: 100%;
+	margin-top: 20px;
+}
+.trainingWarp p{
+	text-align: center;
+	font-size: 15px;
+	color: #666666;
+}
+/*页脚*/
+.myfooter{
+	width: 100%;
+	height: 326px;
+	background: url(../img/footerBg.jpg) no-repeat ;
+	background-position:top center ;
+	padding-top:270px ;
+}
+.myfooter p{
+	text-align: center;
+	color: white;
+	font-size:16px;
+	height: 20px;
+	display: block;
+	
+}
+
+/*右侧窗口*/
+.rightWindow{
+	width: 100px;
+	height: 400px;
+	background: #c8c8c8;
+	position: fixed;
+	top: 50%;
+	right: 0;
+	margin-top:-200px ;
+	z-index: 6;
+}
+.rightFloatBox{
+	border-bottom: 1px solid #ffffff;
+	width: 100%;
+	height: 100px;
+}
+.rightFloatBox:last-child{
+	border-bottom: none
+}
+.rightFloatLogo{
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	display: block;
+	line-height: 70px;
+}
+.rightFloatContent{
+	color: white;
+	display: block;
+	text-align: center;
+	font-size: 15px;
+}
+.rightFloatChild{
+	width: 150px;
+	height: auto;
+	min-height: 50px;
+	background: #b2011a;
+	position: fixed;
+	right:100px ;
+	z-index: 6;
+	padding: 10px;
+	color: white;
+	font-size:15px ;
+}
+.changeBG{
+	background: #b2011a;
+}
+.rightFloatChild1{
+	display: none;
+
+}
+.rightFloatChild2{
+
+	display: none;
+}
+.rightFloatChild3{
+
+	display: none;
+}
+.rightFloatChild4{
+	
+	display: none;
+}
+.rightFloatChildPic{
+	width: 130px;
+	height: 130px;
+	margin: 0 auto;
+}
+.rightFloatChildPic img{
+	width: 100%;
+	height: 100%;
+}
+/*联系我们*/
+.contactUsWarp{
+	width: 100%;
+	height: 680px;
+	background: #efefef;
+	margin-top:30px ;
+	padding-top: 50px;
+}
+.contactUsBg{
+	width: 1047px;
+	height: 597px;
+	background: url(../img/emailBG.jpg) no-repeat;
+	margin: 0 auto;
+	padding-top: 100px;
+
+}
+.spacilText{
+	color: #666666;
+	font-size: 20px;
+	width: 100%;
+	text-align: center;
+}
+.spacilText span{
+	color: #3e86c4;
+	margin: 0 10px 0 0;
+	font-size: 22px;
+}
+.erweimaWarp{
+	width: 480px;
+	height: 140px;
+	margin: 0 auto;
+}
+.erweimaWarpBox{
+	float: left;
+	margin-top:20px ;
+}
+.erweimaWarpBox p{
+	color: #333333;
+}
+.erweimaWarpBox:first-child{
+	margin-right: 50px;
+}
+.erweimaWarpBox:last-child{
+	margin-left: 50px;
+}
+.erweimaWarpBox .erweimaBox img{
+	width: 100px;
+	height: 100px;
+}
+.contactUsContent{
+	width: 640px;
+	margin:  auto;
+	margin-top:140px ;
+}
+.contactUsContent p{
+	width: 100%;
+	text-align: left;
+	color: #666666;
+	font-size: 20px;
+
+}
+.contactUsContent p span{
+	color: #3e86c4;
+	margin: 0 10px 0 0;
+	font-size: 22px;
+}
+/*大道至简*/
+.fontText{
+	width: 1200px;
+	height: 200px;
+	margin: 0 auto;	
+}
+.fontText .fontContent{
+	width: 837px;
+	height: 118px;
+	background: url(../img/fontContent.jpg);
+	margin: 0 auto;
+	margin-top: 60px;
+}
+/*页脚*/
+.footer{
+	width: 100%;
+	height: 150px;
+	background: #3d3d3d;
+}
+.footerWarp{
+	width: 1200px;
+	margin: 0 auto;
+	height: 150px;
+	padding-top: 28px;
+}
+.footerIcon{
+	width: 84px;
+	height: 82px;
+	background: url(../img/footerIcon.jpg) no-repeat;
+	float: left;
+}
+.footerContent{
+	float: left;
+	height: 70px;
+	border-left: 2px solid #535353;
+	margin-left: 85px;
+	margin-top: 5px;
+/*	padding-left: 150px;*/
+	
+}
+.footerContent p{
+	line-height:80px;
+	font-size: 15px;
+	width: 900px;
+	text-align: center;
+	color: #9c9c9c;
+}
+/*复写样式*/
+   .carousel-control.left,.carousel-control.right{
+   	background-image: none; 
+   }
+    
+/*锚点*/
+.anchor{
+	width: 0;
+	height: 0;
+	position: absolute;
+	top: -50px;
+}
+/*slider delate*/
+.bx-wrapper .bx-viewport {
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none; 
+    border: none; 
+    left: -5px;
+    background: #fff;
+    -webkit-transform: translatez(0);
+    -moz-transform: translatez(0);
+    -ms-transform: translatez(0);
+    -o-transform: translatez(0);
+    transform: translatez(0);
+}
+/*服务项目覆盖*/
+.bx-wrapper .bx-prev {
+    left: -100px;
+    margin-top: -30px;
+   
+}
+.bx-wrapper .bx-next {
+    right: -100px;
+     margin-top: -30px;
+}
+
+.bx-wrapper .bx-caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background:none;
+    width: 100%;
+}
+.bx-wrapper .bx-caption span {
+    color: #fff;
+    font-family: Arial;
+    display: block;
+    font-size: .85em;
+    text-align: center;
+    color: #696969;
+    font-size: 17px;
+   
+}
+.testTitle{
+	width: 100%;
+	height: 65px;
+}
+.bx-wrapper .bx-controls-direction a {
+    position: absolute;
+    top: 50%;
+    margin-top: -16px;
+    outline: 0;
+    width: 32px;
+    height: 32px;
+    text-indent: -9999px;
+    z-index: 9;
+}
+/*内容*/
+.listContent{
+	width: 1020px;
+	margin: 0 auto;
+
+}
+.listContentBox{
+	margin-bottom: 60px;
+}
+.listContentBox h2{
+	font-size: 23px;
+	color: #666666;
+	margin-bottom: 30px;
+	font-weight: 700;
+}
+.listContentBox h2:before{
+	content: "";
+	width: 20px;
+	height: 20px;
+	background: #990000;
+	position: absolute;
+	margin: 1px 0 0 -40px;
+}
+.listContentBox p{
+	font-size: 20px;
+	color: #666666;
+	font-weight: 700;
+}
+.listContentBox ul{
+	padding-left: 10px;
+}
+.listContentBox ul li{
+	list-style: none;
+	font-size: 18px;
+	margin-bottom: 5px;
+	
+}
+.zhaopinText{
+	font-size: 28px;
+	color: #990000;
+	margin: 50px auto;
+	width: 1020px;
+}

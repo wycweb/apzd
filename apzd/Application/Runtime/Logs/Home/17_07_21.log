@@ -1,0 +1,39 @@
+[ 2017-07-21T09:15:43+08:00 ] 127.0.0.1 /apzd/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.026671s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001017s ]
+SQL: SHOW COLUMNS FROM `apzd_config` [ RunTime:0.0278s ]
+SQL: SELECT `config_name`,`config_value` FROM `apzd_config`  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `apzd_image` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `apzd_image` WHERE ( id IN(4,5,6) )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `apzd_abstract` [ RunTime:0.0111s ]
+SQL: SELECT `ab_image`,`ab_content` FROM `apzd_abstract` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `apzd_founder` [ RunTime:0.0058s ]
+SQL: SELECT `fd_image`,`fd_content` FROM `apzd_founder` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `apzd_culture` [ RunTime:0.0063s ]
+SQL: SELECT `cul_title`,`cul_desc` FROM `apzd_culture`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `apzd_wish` [ RunTime:0.0059s ]
+SQL: SELECT `wish_title`,`wish_desc` FROM `apzd_wish`  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `apzd_advice` [ RunTime:0.0074s ]
+SQL: SELECT `advice_title`,`id` FROM `apzd_advice` WHERE ( advice_show_status = "启用" ) ORDER BY advice_sort desc  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `apzd_active` [ RunTime:0.0043s ]
+SQL: SELECT `active_name`,`active_img_url` FROM `apzd_active` WHERE ( active_show_status = '启用' )  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `apzd_customer` [ RunTime:0.0038s ]
+SQL: SELECT `customer_name`,`customer_logo_url` FROM `apzd_customer` WHERE ( customer_show_status = '启用' )  [ RunTime:0.0005s ]
+SQL: SELECT `image_url` FROM `apzd_image` WHERE ( id IN(1,2,3) )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.023413s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.023564s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.099962s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.103373s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009709s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009987s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009485s ]
+
