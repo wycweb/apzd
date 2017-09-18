@@ -1,0 +1,1521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91f90da5-ebbf-4699-8eb8-2f2e2472d460" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Common/Conf/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Home/Controller/CommonController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Home/Controller/IndexController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Home/View/Index/advice.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Home/View/Index/employ.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Home/View/Index/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Home/View/layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Html/e5fd7b33b726a0b26480aec2223a418d.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Runtime/Cache/Home/737d2c2268b10bb15d4ed2cdfa49dc7e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Runtime/Cache/Home/90bb241ef6cab7fb16659e35dd78a865.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Runtime/Logs/Common/17_03_21.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Runtime/Logs/Common/17_03_22.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Runtime/Logs/Common/17_05_17.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Runtime/Logs/Common/17_07_18.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Runtime/Logs/Common/17_07_21.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Runtime/Logs/Home/17_03_21.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Runtime/Logs/Home/17_03_22.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Runtime/Logs/Home/17_03_23.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Runtime/Logs/Home/17_03_24.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Runtime/Logs/Home/17_05_16.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Runtime/Logs/Home/17_05_17.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Runtime/Logs/Home/17_07_18.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Runtime/Logs/Home/17_07_19.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Runtime/Logs/Home/17_07_21.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Application/Runtime/Logs/Home/17_07_23.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Desktop.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/css/jquery.bxslider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/images/bx_loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/images/controls.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/img/360search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/img/bussinessLog.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/img/clentBg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/img/emailBG.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/img/fontContent.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/img/footerIcon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/img/questionBG.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/img/rightlogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/img/serveBtn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/img/serviceBGpic.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/js/content.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/js/jquery-1.11.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/Public/js/jquery.bxslider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Common/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Conf/convention.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Conf/debug.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Lang/en-us.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Lang/pt-br.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Lang/zh-cn.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Lang/zh-tw.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Behavior/AgentCheckBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Behavior/BorisBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Behavior/BrowserCheckBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Behavior/BuildLiteBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Behavior/CheckActionRouteBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Behavior/CheckLangBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Behavior/ChromeShowPageTraceBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Behavior/ContentReplaceBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Behavior/CronRunBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Behavior/FireShowPageTraceBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Behavior/ParseTemplateBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Behavior/ReadHtmlCacheBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Behavior/RobotCheckBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Behavior/ShowPageTraceBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Behavior/ShowRuntimeBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Behavior/TokenBuildBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Behavior/UpgradeNoticeBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Behavior/WriteHtmlCacheBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Org/Net/Http.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Org/Net/IpLocation.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Org/Util/ArrayList.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Org/Util/CodeSwitch.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Org/Util/Date.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Org/Util/Rbac.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Org/Util/Stack.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Org/Util/String.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/App.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Auth.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Behavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Build.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Cache.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Cache/Driver/Apachenote.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Cache/Driver/Apc.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Cache/Driver/Db.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Cache/Driver/Eaccelerator.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Cache/Driver/File.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Cache/Driver/Memcache.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Cache/Driver/Memcached.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Cache/Driver/Memcachesae.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Cache/Driver/Redis.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Cache/Driver/Shmop.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Cache/Driver/Sqlite.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Cache/Driver/Wincache.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Cache/Driver/Xcache.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Controller.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Controller/HproseController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Controller/JsonRpcController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Controller/RestController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Controller/RpcController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Controller/YarController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Crypt.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Crypt/Driver/Base64.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Crypt/Driver/Crypt.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Crypt/Driver/Des.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Crypt/Driver/Think.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Crypt/Driver/Xxtea.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Db.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Db/Driver.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Db/Driver/Firebird.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Db/Driver/Mongo.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Db/Driver/Oracle.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Db/Driver/Pgsql.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Db/Driver/Sqlsrv.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Db/Lite.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Dispatcher.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Exception.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Hook.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Image.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Image/Driver/GIF.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Image/Driver/Gd.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Image/Driver/Imagick.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Log.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Log/Driver/File.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Log/Driver/Sae.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Model.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Model/AdvModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Model/MergeModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Model/MongoModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Model/RelationModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Model/ViewModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Page.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Route.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Session/Driver/Db.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Session/Driver/Memcache.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Session/Driver/Mysqli.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Storage.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Storage/Driver/File.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Storage/Driver/Sae.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Template.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Template/Driver/Ease.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Template/Driver/Lite.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Template/Driver/Mobile.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Template/Driver/Smart.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Template/Driver/Smarty.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Template/TagLib.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Template/TagLib/Cx.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Template/TagLib/Html.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Think.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Upload.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Upload/Driver/Bcs.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Upload/Driver/Bcs/bcs.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Upload/Driver/Bcs/mimetypes.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Upload/Driver/Bcs/requestcore.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Upload/Driver/Ftp.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Upload/Driver/Local.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Upload/Driver/Qiniu.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Upload/Driver/Qiniu/QiniuStorage.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Upload/Driver/Sae.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Upload/Driver/Upyun.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Verify.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Verify/bgs/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Verify/bgs/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Verify/bgs/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Verify/bgs/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Verify/bgs/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Verify/bgs/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Verify/bgs/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Verify/bgs/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Verify/ttfs/1.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Verify/ttfs/2.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Verify/ttfs/3.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Verify/ttfs/4.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Verify/ttfs/5.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/Verify/ttfs/6.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Think/View.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Boris/Boris.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Boris/CLIOptionsHandler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Boris/ColoredInspector.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Boris/Config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Boris/DumpInspector.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Boris/EvalWorker.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Boris/ExportInspector.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Boris/Inspector.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Boris/ReadlineClient.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Boris/ShallowParser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/EaseTemplate/template.core.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/EaseTemplate/template.ease.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Hprose/HproseClassManager.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Hprose/HproseClient.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Hprose/HproseCommon.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Hprose/HproseFormatter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Hprose/HproseHttpClient.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Hprose/HproseHttpServer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Hprose/HproseIO.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Hprose/HproseIOStream.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Hprose/HproseReader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Hprose/HproseTags.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Hprose/HproseWriter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/SmartTemplate/class.smarttemplate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/SmartTemplate/class.smarttemplatedebugger.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/SmartTemplate/class.smarttemplateparser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/Smarty.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/SmartyBC.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/debug.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/block.textformat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/function.counter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/function.cycle.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/function.fetch.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_checkboxes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_options.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_radios.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_select_date.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_select_time.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/function.mailto.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/function.math.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.capitalize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.date_format.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.debug_print_var.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.escape.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.regex_replace.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.replace.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.spacify.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.truncate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.cat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.count_characters.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.count_paragraphs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.count_sentences.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.count_words.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.escape.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.from_charset.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.indent.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.lower.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.noprint.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.string_format.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.strip.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.strip_tags.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.to_charset.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.unescape.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.upper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.wordwrap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/outputfilter.trimwhitespace.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/shared.escape_special_chars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/shared.literal_compiler_param.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/shared.make_timestamp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/shared.mb_str_replace.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/shared.mb_unicode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/shared.mb_wordwrap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/plugins/variablefilter.htmlspecialchars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_cacheresource.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_cacheresource_custom.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_cacheresource_keyvaluestore.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_config_source.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_cacheresource_file.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_append.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_assign.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_block.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_break.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_call.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_capture.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_config_load.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_continue.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_debug.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_eval.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_extends.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_for.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_foreach.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_function.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_if.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_include.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_include_php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_insert.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_ldelim.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_nocache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_block_plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_function_plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_modifier.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_object_block_function.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_object_function.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_print_expression.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_registered_block.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_registered_function.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_special_variable.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_rdelim.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_section.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_setfilter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_while.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compilebase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_config_file_compiler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_configfilelexer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_configfileparser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_data.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_debug.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_filter_handler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_function_call_handler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_get_include_path.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_nocache_insert.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_parsetree.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_eval.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_extends.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_file.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_registered.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_stream.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_string.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_smartytemplatecompiler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_templatebase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_templatecompilerbase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_templatelexer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_templateparser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_utility.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_write_file.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource_custom.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource_recompiled.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource_uncompiled.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_security.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/TemplateLite/class.compiler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/TemplateLite/class.config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/TemplateLite/class.template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.compile_config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.compile_custom_block.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.compile_custom_function.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.compile_if.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.generate_compiler_debug_output.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.include.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.parse_is_expr.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.section_start.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/TemplateLite/internal/debug.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/TemplateLite/internal/template.build_dir.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/TemplateLite/internal/template.config_loader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/TemplateLite/internal/template.destroy_dir.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/TemplateLite/internal/template.fetch_compile_include.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/TemplateLite/internal/template.generate_debug_output.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/jsonRPC/jsonRPCClient.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/jsonRPC/jsonRPCServer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/bigint.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/compat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/dhparams.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/dhparams/1024.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/dhparams/128.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/dhparams/1536.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/dhparams/160.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/dhparams/192.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/dhparams/2048.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/dhparams/256.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/dhparams/3072.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/dhparams/4096.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/dhparams/512.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/dhparams/768.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/dhparams/96.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/CREDITS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/INSTALL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/config.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/config.w32" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/php_xxtea.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/php_xxtea.dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/php_xxtea.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/php_xxtea.sln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/php_xxtea.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/test/test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/xxtea.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/xxtea.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/phprpc_client.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/phprpc_date.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/phprpc_server.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/phpRPC/xxtea.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/spyc/COPYING" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/spyc/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/spyc/Spyc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/spyc/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/spyc/examples/yaml-dump.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/spyc/examples/yaml-load.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/spyc/php4/5to4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/spyc/php4/spyc.php4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/spyc/php4/test.php4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/spyc/spyc.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/spyc/tests/DumpTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/spyc/tests/IndentTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/spyc/tests/ParseTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/spyc/tests/RoundTripTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/spyc/tests/comments.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/spyc/tests/failing1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/spyc/tests/indent_1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Library/Vendor/spyc/tests/quotes.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Mode/Api/App.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Mode/Api/Controller.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Mode/Api/Dispatcher.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Mode/Api/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Mode/Lite/App.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Mode/Lite/Controller.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Mode/Lite/Dispatcher.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Mode/Lite/Model.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Mode/Lite/View.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Mode/Lite/convention.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Mode/Lite/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Mode/Sae/convention.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Mode/api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Mode/common.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Mode/lite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Mode/sae.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/ThinkPHP.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Tpl/dispatch_jump.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Tpl/page_trace.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/Tpl/think_exception.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/ThinkPHP/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/error/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/opclean.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apzd/php.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/.bch_internal_config" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/.idea/index.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/Conf/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/Controller/AboutController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/Controller/AdminController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/Controller/CategoryController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/Controller/CommonController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/Controller/IndexController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/Controller/InformationController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/Controller/LifeController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/Controller/LoginController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/Model/AdminModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/Model/ArticleModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/Model/ArticleViewModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/Model/CateModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/Model/LinkModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/View/About/edit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/View/Admin/add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/View/Admin/edit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/View/Admin/lst.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/View/Category/add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/View/Category/edit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/View/Category/lst.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/View/Index/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/View/Information/edit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/View/Life/add.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/View/Life/edit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/View/Life/lst.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/View/Login/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/View/Public/head.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Admin/View/Public/left.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Common/Conf/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Home/Conf/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Home/Controller/AboutController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Home/Controller/BoardController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Home/Controller/IndexController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Home/Controller/LifeController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Home/Controller/PhotoController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Home/Model/LifeModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Home/View/About/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Home/View/Board/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Home/View/Index/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Home/View/Life/article.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Home/View/Life/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Home/View/Photo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Runtime/Cache/Admin/0dfec61edd66f450033aa87c28a760f4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Runtime/Cache/Admin/9a092d490f0db6b41f8ad36f2a44efe7.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Runtime/Cache/Admin/b595b808c2ebeeeb0478ffc30bb4e87a.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Runtime/Cache/Home/1e546e5803aafe810b5e5e9cd6f5a23b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Runtime/Cache/Home/3b9bb8f59aaa4d1691c827dd64ddfa9b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Runtime/Cache/Home/558a3efeccaa3bb0fbbca1a94fd73cdc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Runtime/Cache/Home/67135feee4661d79d1c90c3b3f357c90.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Runtime/Cache/Home/c7b2c9fe5c411a4afa1863e3cb928bc1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Runtime/Logs/Admin/17_07_23.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Runtime/Logs/Common/17_07_23.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Application/Runtime/Logs/Home/17_07_23.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/css/admin_login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/css/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/fonts/icomoon.dev.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/fonts/icomoon.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/fonts/icomoon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/fonts/icomoon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/fonts/icomoon.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/images/login/admin-login-btnbg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/images/onCorrect.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/images/onError.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/images/onFocus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/images/onShow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/images/tab-thbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/js/libs/modernizr.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/anchor/anchor.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/attachment.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/attachment.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/attachment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/fileTypeImages/icon_chm.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/fileTypeImages/icon_default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/fileTypeImages/icon_doc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/fileTypeImages/icon_exe.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/fileTypeImages/icon_jpg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/fileTypeImages/icon_mp3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/fileTypeImages/icon_mv.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/fileTypeImages/icon_pdf.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/fileTypeImages/icon_ppt.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/fileTypeImages/icon_txt.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/fileTypeImages/icon_xls.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/images/alignicon.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/images/alignicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/images/file-icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/images/file-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/images/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/images/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/images/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/images/progress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/images/success.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/attachment/images/success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/background/background.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/background/background.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/background/background.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/background/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/background/images/success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/charts/chart.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/charts/charts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/charts/charts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/charts/charts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/charts/images/charts0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/charts/images/charts1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/charts/images/charts2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/charts/images/charts3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/charts/images/charts4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/charts/images/charts5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/emotion/emotion.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/emotion/emotion.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/emotion/emotion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/emotion/images/0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/emotion/images/bface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/emotion/images/cface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/emotion/images/fface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/emotion/images/jxface2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/emotion/images/neweditor-tab-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/emotion/images/tface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/emotion/images/wface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/emotion/images/yface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/gmap/gmap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/help/help.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/help/help.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/help/help.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/image/image.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/image/image.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/image/image.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/image/images/alignicon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/image/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/image/images/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/image/images/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/image/images/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/image/images/progress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/image/images/success.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/image/images/success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/insertframe/insertframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/internal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/link/link.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/map/map.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/map/show.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/music/music.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/music/music.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/music/music.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/preview/preview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/scrawl/images/addimg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/scrawl/images/brush.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/scrawl/images/delimg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/scrawl/images/delimgH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/scrawl/images/empty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/scrawl/images/emptyH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/scrawl/images/eraser.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/scrawl/images/redo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/scrawl/images/redoH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/scrawl/images/scale.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/scrawl/images/scaleH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/scrawl/images/size.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/scrawl/images/undo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/scrawl/images/undoH.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/scrawl/scrawl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/scrawl/scrawl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/scrawl/scrawl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/searchreplace/searchreplace.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/searchreplace/searchreplace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/snapscreen/snapscreen.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/spechars/spechars.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/spechars/spechars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/table/dragicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/table/edittable.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/table/edittable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/table/edittable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/table/edittd.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/table/edittip.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/template/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/template/images/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/template/images/pre0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/template/images/pre1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/template/images/pre2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/template/images/pre3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/template/images/pre4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/template/template.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/template/template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/template/template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/video/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/video/images/center_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/video/images/file-icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/video/images/file-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/video/images/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/video/images/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/video/images/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/video/images/left_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/video/images/none_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/video/images/progress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/video/images/right_focus.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/video/images/success.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/video/images/success.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/video/video.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/video/video.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/video/video.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/webapp/webapp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/wordimage/fClipboard_ueditor.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/wordimage/imageUploader.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/wordimage/tangram.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/wordimage/wordimage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/dialogs/wordimage/wordimage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/en/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/en/images/addimage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/en/images/alldeletebtnhoverskin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/en/images/alldeletebtnupskin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/en/images/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/en/images/button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/en/images/copy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/en/images/deletedisable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/en/images/deleteenable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/en/images/listbackground.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/en/images/localimage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/en/images/music.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/en/images/rotateleftdisable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/en/images/rotateleftenable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/en/images/rotaterightdisable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/en/images/rotaterightenable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/en/images/upload.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/zh-cn/images/copy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/zh-cn/images/localimage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/zh-cn/images/music.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/zh-cn/images/upload.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/lang/zh-cn/zh-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/php/Uploader.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/php/action_crawler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/php/action_list.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/php/action_upload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/php/config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/php/controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/css/ueditor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/css/ueditor.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/dialogbase.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/anchor.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/arrow_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/arrow_up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/button-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/cancelbutton.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/charts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/cursor_h.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/cursor_h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/cursor_v.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/cursor_v.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/dialog-title-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/filescan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/highlighted.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/icons-all.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/icons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/loaderror.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/lock.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/neweditor-tab-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/pagebreak.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/scale.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/sortable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/spacer.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/sparator_v.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/table-cell-align.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/tangram-colorpicker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/toolbar_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/unhighlighted.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/upload.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/videologo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/word.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/default/images/wordpaste.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/themes/iframe.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/SyntaxHighlighter/shCore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/SyntaxHighlighter/shCoreDefault.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/codemirror/codemirror.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/codemirror/codemirror.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/adapters/mootools-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/adapters/mootools-adapter.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/adapters/prototype-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/adapters/prototype-adapter.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/adapters/standalone-framework.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/adapters/standalone-framework.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/highcharts-more.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/highcharts-more.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/highcharts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/highcharts.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/modules/annotations.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/modules/annotations.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/modules/canvas-tools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/modules/canvas-tools.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/modules/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/modules/data.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/modules/drilldown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/modules/drilldown.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/modules/exporting.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/modules/exporting.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/modules/funnel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/modules/funnel.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/modules/heatmap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/modules/heatmap.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/modules/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/modules/map.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/modules/no-data-to-display.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/modules/no-data-to-display.src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/themes/dark-blue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/themes/dark-green.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/themes/gray.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/themes/grid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/highcharts/themes/skies.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/jquery-1.10.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/jquery-1.10.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/jquery-1.10.2.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/snapscreen/UEditorSnapscreen.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/video-js/font/vjs.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/video-js/font/vjs.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/video-js/font/vjs.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/video-js/font/vjs.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/video-js/video-js.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/video-js/video-js.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/video-js/video-js.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/video-js/video.dev.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/video-js/video.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/webuploader/Uploader.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/webuploader/webuploader.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/webuploader/webuploader.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/webuploader/webuploader.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/webuploader/webuploader.flashonly.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/webuploader/webuploader.flashonly.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/webuploader/webuploader.html5only.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/webuploader/webuploader.html5only.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/webuploader/webuploader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/webuploader/webuploader.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/webuploader/webuploader.withoutimage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/webuploader/webuploader.withoutimage.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/zeroclipboard/ZeroClipboard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/zeroclipboard/ZeroClipboard.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/third-party/zeroclipboard/ZeroClipboard.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/ueditor.all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/ueditor.all.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/ueditor.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/ueditor.parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/Back/ueditor/ueditor.parse.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/css/about.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/css/album.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/css/media.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/error/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/error/css/error.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/error/images/blueprint.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/error/images/carbon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/error/images/error-hanger.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/error/images/error-pin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/005.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/006.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/007.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/008.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/50.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/5794.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/5849.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/6264.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/about_c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/aboutphoto.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/camera_skins.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/col.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/color.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/ibodybg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/ico.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/li.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/ltpic.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/ms.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/ms8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/photos.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/s6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/s7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/s8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/t00.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/t01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/t02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/t03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/t04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/t05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/t06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/ti.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/vis.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/images/xgt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/js/animate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/js/jquery-1.4.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/js/modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/js/silder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/js/waterfall.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/kobe/timg0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/kobe/timg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/kobe/timg10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/kobe/timg11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/kobe/timg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/kobe/timg3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/kobe/timg4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/kobe/timg5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/kobe/timg6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/kobe/timg7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/kobe/timg8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/kobe/timg9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/layer/extend/layer.ext.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/layer/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/layer/layer.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/layer/skin/default/icon_ext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/layer/skin/default/textbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/layer/skin/default/xubox_ico0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/layer/skin/default/xubox_loading0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/layer/skin/default/xubox_loading1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/layer/skin/default/xubox_loading2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/layer/skin/default/xubox_loading3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/layer/skin/default/xubox_title0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/layer/skin/layer.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Public/layer/skin/layer.ext.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Common/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Conf/convention.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Conf/debug.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Lang/en-us.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Lang/pt-br.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Lang/zh-cn.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Lang/zh-tw.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Behavior/AgentCheckBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Behavior/BorisBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Behavior/BrowserCheckBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Behavior/BuildLiteBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Behavior/CheckActionRouteBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Behavior/CheckLangBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Behavior/ChromeShowPageTraceBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Behavior/ContentReplaceBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Behavior/CronRunBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Behavior/FireShowPageTraceBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Behavior/ParseTemplateBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Behavior/ReadHtmlCacheBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Behavior/RobotCheckBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Behavior/ShowPageTraceBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Behavior/ShowRuntimeBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Behavior/TokenBuildBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Behavior/UpgradeNoticeBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Behavior/WriteHtmlCacheBehavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Org/Net/Http.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Org/Net/IpLocation.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Org/Util/ArrayList.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Org/Util/CodeSwitch.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Org/Util/Date.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Org/Util/Rbac.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Org/Util/Stack.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Org/Util/String.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/App.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Auth.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Behavior.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Build.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Cache.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Cache/Driver/Apachenote.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Cache/Driver/Apc.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Cache/Driver/Db.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Cache/Driver/Eaccelerator.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Cache/Driver/File.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Cache/Driver/Memcache.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Cache/Driver/Memcached.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Cache/Driver/Memcachesae.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Cache/Driver/Redis.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Cache/Driver/Shmop.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Cache/Driver/Sqlite.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Cache/Driver/Wincache.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Cache/Driver/Xcache.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Controller.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Controller/HproseController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Controller/JsonRpcController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Controller/RestController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Controller/RpcController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Controller/YarController.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Crypt.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Crypt/Driver/Base64.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Crypt/Driver/Crypt.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Crypt/Driver/Des.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Crypt/Driver/Think.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Crypt/Driver/Xxtea.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Db.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Db/Driver.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Db/Driver/Firebird.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Db/Driver/Mongo.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Db/Driver/Oracle.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Db/Driver/Pgsql.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Db/Driver/Sqlsrv.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Db/Lite.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Dispatcher.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Exception.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Hook.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Image.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Image/Driver/GIF.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Image/Driver/Gd.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Image/Driver/Imagick.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Log.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Log/Driver/File.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Log/Driver/Sae.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Model.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Model/AdvModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Model/MergeModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Model/MongoModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Model/RelationModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Model/ViewModel.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Page.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Route.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Session/Driver/Db.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Session/Driver/Memcache.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Session/Driver/Mysqli.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Storage.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Storage/Driver/File.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Storage/Driver/Sae.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Template.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Template/Driver/Ease.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Template/Driver/Lite.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Template/Driver/Mobile.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Template/Driver/Smart.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Template/Driver/Smarty.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Template/TagLib.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Template/TagLib/Cx.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Template/TagLib/Html.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Think.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Upload.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Upload/Driver/Bcs.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Upload/Driver/Bcs/bcs.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Upload/Driver/Bcs/mimetypes.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Upload/Driver/Bcs/requestcore.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Upload/Driver/Ftp.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Upload/Driver/Local.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Upload/Driver/Qiniu.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Upload/Driver/Qiniu/QiniuStorage.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Upload/Driver/Sae.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Upload/Driver/Upyun.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Verify.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Verify/bgs/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Verify/bgs/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Verify/bgs/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Verify/bgs/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Verify/bgs/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Verify/bgs/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Verify/bgs/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Verify/bgs/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Verify/ttfs/1.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Verify/ttfs/2.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Verify/ttfs/3.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Verify/ttfs/4.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Verify/ttfs/5.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/Verify/ttfs/6.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Think/View.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Boris/Boris.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Boris/CLIOptionsHandler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Boris/ColoredInspector.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Boris/Config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Boris/DumpInspector.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Boris/EvalWorker.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Boris/ExportInspector.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Boris/Inspector.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Boris/ReadlineClient.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Boris/ShallowParser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/EaseTemplate/template.core.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/EaseTemplate/template.ease.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Hprose/HproseClassManager.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Hprose/HproseClient.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Hprose/HproseCommon.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Hprose/HproseFormatter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Hprose/HproseHttpClient.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Hprose/HproseHttpServer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Hprose/HproseIO.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Hprose/HproseIOStream.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Hprose/HproseReader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Hprose/HproseTags.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Hprose/HproseWriter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/SmartTemplate/class.smarttemplate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/SmartTemplate/class.smarttemplatedebugger.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/SmartTemplate/class.smarttemplateparser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/Smarty.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/SmartyBC.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/debug.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/block.textformat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/function.counter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/function.cycle.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/function.fetch.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_checkboxes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_options.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_radios.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_select_date.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_select_time.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/function.mailto.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/function.math.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.capitalize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.date_format.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.debug_print_var.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.escape.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.regex_replace.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.replace.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.spacify.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.truncate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.cat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.count_characters.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.count_paragraphs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.count_sentences.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.count_words.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.default.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.escape.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.from_charset.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.indent.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.lower.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.noprint.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.string_format.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.strip.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.strip_tags.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.to_charset.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.unescape.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.upper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.wordwrap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/outputfilter.trimwhitespace.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/shared.escape_special_chars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/shared.literal_compiler_param.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/shared.make_timestamp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/shared.mb_str_replace.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/shared.mb_unicode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/shared.mb_wordwrap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/plugins/variablefilter.htmlspecialchars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_cacheresource.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_cacheresource_custom.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_cacheresource_keyvaluestore.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_config_source.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_cacheresource_file.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_append.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_assign.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_block.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_break.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_call.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_capture.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_config_load.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_continue.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_debug.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_eval.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_extends.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_for.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_foreach.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_function.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_if.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_include.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_include_php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_insert.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_ldelim.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_nocache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_block_plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_function_plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_modifier.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_object_block_function.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_object_function.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_print_expression.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_registered_block.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_registered_function.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_special_variable.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_rdelim.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_section.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_setfilter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_while.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compilebase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_config_file_compiler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_configfilelexer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_configfileparser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_data.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_debug.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_filter_handler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_function_call_handler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_get_include_path.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_nocache_insert.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_parsetree.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_eval.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_extends.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_file.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_registered.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_stream.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_string.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_smartytemplatecompiler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_templatebase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_templatecompilerbase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_templatelexer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_templateparser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_utility.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_write_file.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource_custom.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource_recompiled.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource_uncompiled.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_security.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/TemplateLite/class.compiler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/TemplateLite/class.config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/TemplateLite/class.template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.compile_config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.compile_custom_block.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.compile_custom_function.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.compile_if.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.generate_compiler_debug_output.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.include.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.parse_is_expr.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.section_start.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/TemplateLite/internal/debug.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/TemplateLite/internal/template.build_dir.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/TemplateLite/internal/template.config_loader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/TemplateLite/internal/template.destroy_dir.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/TemplateLite/internal/template.fetch_compile_include.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/TemplateLite/internal/template.generate_debug_output.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/jsonRPC/jsonRPCClient.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/jsonRPC/jsonRPCServer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/bigint.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/compat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/dhparams.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/dhparams/1024.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/dhparams/128.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/dhparams/1536.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/dhparams/160.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/dhparams/192.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/dhparams/2048.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/dhparams/256.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/dhparams/3072.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/dhparams/4096.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/dhparams/512.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/dhparams/768.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/dhparams/96.dhp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/CREDITS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/INSTALL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/config.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/config.w32" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/php_xxtea.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/php_xxtea.dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/php_xxtea.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/php_xxtea.sln" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/php_xxtea.vcproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/test/test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/xxtea.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/xxtea.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/phprpc_client.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/phprpc_date.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/phprpc_server.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/phpRPC/xxtea.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/spyc/COPYING" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/spyc/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/spyc/Spyc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/spyc/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/spyc/examples/yaml-dump.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/spyc/examples/yaml-load.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/spyc/php4/5to4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/spyc/php4/spyc.php4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/spyc/php4/test.php4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/spyc/spyc.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/spyc/tests/DumpTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/spyc/tests/IndentTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/spyc/tests/ParseTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/spyc/tests/RoundTripTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/spyc/tests/comments.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/spyc/tests/failing1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/spyc/tests/indent_1.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Library/Vendor/spyc/tests/quotes.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Mode/Api/App.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Mode/Api/Controller.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Mode/Api/Dispatcher.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Mode/Api/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Mode/Lite/App.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Mode/Lite/Controller.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Mode/Lite/Dispatcher.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Mode/Lite/Model.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Mode/Lite/View.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Mode/Lite/convention.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Mode/Lite/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Mode/Sae/convention.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Mode/api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Mode/common.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Mode/lite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Mode/sae.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/ThinkPHP.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Tpl/dispatch_jump.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Tpl/page_trace.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/Tpl/think_exception.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ThinkPHP/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/005.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/006.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/007.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/008.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/2017-05-17/591bac43a645d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/2017-05-17/591bacaf88d71.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/2017-05-17/591baced1aeb4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/2017-05-17/591bad1df17ae.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/2017-05-17/591bb39f93ef1.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/2017-05-17/591bb3de653d9.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/2017-05-17/591bb3eaf139a.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/2017-05-17/591bb41267817.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/2017-05-17/591bb431679df.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/2017-05-17/591bb49138aef.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/2017-05-17/591bcc67065fc.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/IMG_5558.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/Uploads/2017-05-17/591baba5ccdb0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/information/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/information/home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/information/ico.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/information/photo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/timg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/Uploads/u=3589322823,2068122345&amp;fm=214&amp;gp=0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/app.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/bcloud_nginx_gen.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/bcloud_nginx_user.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/bdts.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/error/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/error/502.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/error/css/dandelion.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/error/images/blueprint.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/error/images/carbon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/error/images/error-hanger.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/error/images/error-pin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/error/old_404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/opclean.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/parse_appconfig.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/php.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/sitemap.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ueditor/php/upload/file/20170320/1489983981887745.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ueditor/php/upload/image/1494070891107708.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ueditor/php/upload/image/20170320/1489982257817087.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ueditor/php/upload/image/20170320/1489982262134990.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ueditor/php/upload/image/20170320/1489982267102553.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ueditor/php/upload/image/20170320/1489982285452220.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ueditor/php/upload/image/20170320/1489982408110772.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ueditor/php/upload/image/20170322/1490180143107278.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ueditor/php/upload/image/20170322/1490180157106632.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ueditor/php/upload/image/20170322/1490180323172170.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ueditor/php/upload/image/20170323/1490265421391589.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ueditor/php/upload/image/20170323/1490265433384273.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ueditor/php/upload/image/20170323/1490265451119636.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ueditor/php/upload/image/20170323/1490266219216966.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ueditor/php/upload/image/20170323/1490270305108965.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ueditor/php/upload/image/20170408/1491653486138325.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ueditor/php/upload/image/20170408/1491653569891919.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ueditor/php/upload/image/20170408/1491653595678740.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index/ueditor/php/upload/image/20170506/1494070891107708.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="apzd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apzd" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91f90da5-ebbf-4699-8eb8-2f2e2472d460" name="Default" comment="" />
+      <created>1505745754677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505745754677</updated>
+      <workItem from="1505745755941" duration="37000" />
+      <workItem from="1505747194066" duration="368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="405000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/apzd/apzd/Application/Home/View/Login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apzd/apzd/Application/Home/View/Login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1048">
+          <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
